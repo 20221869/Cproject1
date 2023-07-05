@@ -1,0 +1,8 @@
+prefix=/home/zhangxin/Documents/ros_homework/install
+
+Name: depthc
+Description: Description of depthc
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

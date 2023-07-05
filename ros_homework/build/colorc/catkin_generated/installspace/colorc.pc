@@ -1,0 +1,8 @@
+prefix=/home/zhangxin/Documents/ros_homework/install
+
+Name: colorc
+Description: Description of colorc
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

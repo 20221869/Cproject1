@@ -1,0 +1,8 @@
+prefix=/home/zhangxin/Documents/ros_homework/devel
+
+Name: leida
+Description: Description of leida
+Version: 0.0.0
+Cflags: -I/home/zhangxin/Documents/ros_homework/src/leida/include
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs
